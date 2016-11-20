@@ -8,7 +8,6 @@
 * 无交互运行，方便部署自动化
 * 实用工具/PoC更新中
 
-*(欢迎提交代码和改进建议)*
   
 ![banner.png](https://github.com/Xyntax/POC-T/blob/cdxy/docs/banner.png) 
 
